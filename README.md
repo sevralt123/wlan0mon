@@ -8,4 +8,8 @@ chmod +x monen mondis
 ./monen      
 
 #stop      
-./mondis      
+./mondis         
+           
+Tutorial.           
+
+https://youtu.be/EmO-N7NHbb0
