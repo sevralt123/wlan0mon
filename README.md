@@ -17,11 +17,12 @@ chmod +x monen mondis
 
 ### YOUTUBE https://youtu.be/EmO-N7NHbb0
 
-[!donate]
+### donate
+[![donate]
 
 consider buying me a coffee :)
 
-<script src="http://coinwidget.com/widget/coin.js"></script>
+(<script src="http://coinwidget.com/widget/coin.js"></script>
 <script>
 CoinWidgetCom.go({
  wallet_address: "16r6kru4ii9tkKRBG9uJLZVCa79MtMdJVX"
@@ -35,4 +36,4 @@ CoinWidgetCom.go({
  , lbl_count: "Donasi di terima."
  , lbl_amount: "BTC"
 });
-</script>
+</script>)
