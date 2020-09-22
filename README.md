@@ -20,7 +20,7 @@ chmod +x monen mondis
 ### donate
 
 
-consider buying me a coffee :)
+donation for me to buy coffee :)
 ### BTC
 1MvWqxrrNc1EPD8A1AA75M4ujKhZ3b2vA7
 
