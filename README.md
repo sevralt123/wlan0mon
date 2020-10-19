@@ -12,3 +12,4 @@ chmod +x monen mondis
 #stop / отключение      
 ./mondis         
 ```
+[оригинальный скрипт](https://github.com/ripunk/wlan0mon.git) от автора Ripunk
